@@ -1,5 +1,11 @@
 # mck-dashboard-to-insight
 
+*Portfolio artifact 3 — dashboard-to-insight analytical write-up on a fully synthetic programme dashboard; Python.*
+
+![category](https://img.shields.io/badge/category-data-science-0EA5E9?style=flat-square) ![language](https://img.shields.io/badge/language-Python-2563EB?style=flat-square) ![license](https://img.shields.io/badge/license-MIT-16A34A?style=flat-square) ![maintenance](https://img.shields.io/badge/maintenance-active-16A34A?style=flat-square) ![repo](https://img.shields.io/badge/repo-mck--dashboard--to--insight-111827?style=flat-square)
+
+---
+
 Portfolio artifact 3 of 3: a dashboard-to-insight write-up. It takes one finding from a programme dashboard, shows the analysis that confirms it, and states the programme decision it implies.
 
 ALL DATA IN THIS REPOSITORY IS SYNTHETIC. It is labelled synthetic on every figure and in every file. No client, programme or beneficiary data is present.
@@ -27,3 +33,7 @@ Do not publish a single aggregate beneficiary count for the programme. Report Tu
 ## Licence
 
 MIT. See LICENSE.
+
+## Contribution and license
+
+Issues and pull requests are welcome — please open an issue describing the proposed change before submitting substantive work. This project is released under the MIT License.
